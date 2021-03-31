@@ -11,7 +11,7 @@ import time
 import json
 
 USERNAME = '3113596134@qq.com'
-PASSWORD = 'wuxinyu2001'
+PASSWORD = '********'
 
 
 class LoginDriver:
